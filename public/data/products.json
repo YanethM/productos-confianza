@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "ahorros",
+      "images": [
+        {
+          "link": "https://confianza.pe/negocios/ahorros/ahorro-confianza",
+          "url": "https://confianza.pe/img/2025/07/ahorro-banner-landing-v2.png"
+        }
+      ]
+    },
+    {
+      "name": "dpf",
+      "images": [
+        {
+          "link": "https://confianza.pe/negocios/depositos/deposito-a-plazo",
+          "url": "https://confianza.pe/img/2025/08/dpf-banner-landing.png"
+        }
+      ]
+    },
+    {
+      "name": "cts",
+      "images": [
+        {
+          "link": "https://confianza.pe/persona/depositos/cuenta-cts",
+          "url": "https://confianza.pe/img/2025/05/cts-banner-landing.png"
+        }
+      ]
+    },
+    {
+      "name": "prestamo",
+      "images": [
+        {
+          "link": "https://confianza.pe/confianza/terminos-y-condiciones-campania-escolar",
+          "url": "https://confianza.pe/img/2023/10/banner-agua.jpg",
+          "campaign": "migrantes"
+        },
+        {
+          "link": "https://confianza.pe/confianza/terminos-y-condiciones-campania-escolar",
+          "url": "https://confianza.pe/img/2023/12/creditos-banner-landing.png",
+          "campaign": "navidad"
+        }
+      ]
+    }
+  ]
+}
